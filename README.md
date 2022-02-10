@@ -2,7 +2,7 @@
 
 
 # Conteúdo
-Exercícios simples de manipulação de listas.
+Exercícios simples sobre tipos algébricos soma e multiplicação
 
 # Exercícios simples
 
